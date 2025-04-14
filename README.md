@@ -17,4 +17,14 @@ I am also passionate about electronics and love working on Arduino-based project
 
 ---
 
+## 📈 Github Stats
+
+<details> 
+  <summary>💻 Most used languages</summary>
+  <br/>
+  <p align="left"> <a href="https://github.com/Giuseppe-Compagnone"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Giuseppe-Compagnone&layout=compact&count_private=true" alt="Giuseppe-Compagnone" /></a> </p>
+</details>
+
+---
+
 Thanks for stopping by! 🚀
